@@ -13,5 +13,10 @@ Images are all stored within this repository.
 
 All images have alt tags. 
 
+# Screenshots of the live working webpage
+
+[Screenshot to accessibility test](\Homework1-SiteOptimization\WebpageScreenshotBottom.PNG) 
+
+
 
 

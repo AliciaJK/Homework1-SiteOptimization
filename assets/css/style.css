@@ -49,10 +49,10 @@ a {
 }
 /* this ends the navigation and header styling*/
 
-/* remove this font size and add it to the body tag. One less item needs to be tagged.
-p {
+/*remove this font size and add it to the body tag. One less item needs to be tagged.*/
+/*p {
     font-size: 16px;
-}*/
+} */
 
 .hero {
     height: 800px;

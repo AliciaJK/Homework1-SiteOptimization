@@ -152,7 +152,7 @@ a {
     color: #ffffff;
 }
 */
-
+ /* the below image tags are redundant, only one is needed*/
 .search-engine-optimization img {
     max-height: 200px;
 }

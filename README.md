@@ -15,8 +15,10 @@ All images have alt tags.
 
 # Screenshots of the live working webpage
 
-[Screenshot to accessibility test](\Homework1-SiteOptimization\WebpageScreenshotBottom.PNG) 
+[Screenshot to accessibility test](https://github.com/AliciaJK/Homework1-SiteOptimization/blob/main/WaveAccessibilityScreenshot.PNG) 
 
+[Screenshot to Webpage top](https://github.com/AliciaJK/Homework1-SiteOptimization/blob/main/WebpageScreenshotTop.PNG) 
 
+[Screenshot to Webpage middle](https://github.com/AliciaJK/Homework1-SiteOptimization/blob/main/WebpageScreenshotMiddle.PNG) 
 
-
+[Screenshot to Webpage bottom](https://github.com/AliciaJK/Homework1-SiteOptimization/blob/main/WebpageScreenshotBottom.PNG) 

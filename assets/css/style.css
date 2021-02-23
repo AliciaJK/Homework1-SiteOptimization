@@ -67,18 +67,20 @@ a {
     float: left;
     margin-right: 25px;
 }
-
+/* float left and float right are keeping the content within the appropriate boxes*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* contect style for the three main boxes*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+/* styling for the aside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,7 +133,7 @@ a {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* remove the below CSS, redundant because of the above. changed in html
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -149,6 +151,7 @@ a {
     background-color: #0072bb;
     color: #ffffff;
 }
+*/
 
 .search-engine-optimization img {
     max-height: 200px;
